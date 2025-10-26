@@ -1,2 +1,3 @@
-# template-v14
-Node js v14 discord bot boş altyapısı
+# DİSCORD BOT BOŞ ALTYAPI
+Bu Repoda  Node.js V14 Boş Altyapı Vardır
+**Discord : Wexydev.**
